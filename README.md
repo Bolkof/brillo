@@ -2,7 +2,9 @@
 
 Este es un pequeño programa escrito en **Rust** que permite ajustar el brillo de la pantalla en Linux utilizando el comando `brightnessctl`.  
 El programa recibe un número entero de 0 a 99 y ajusta directamente el brillo al porcentaje indicado.
-
+```
+git clone https://github.com/Bolkof/brillo.git
+```
 ---
 
 ## 🚀 Características
